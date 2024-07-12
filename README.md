@@ -1,5 +1,5 @@
 ![image](https://github.com/user-attachments/assets/5de71b62-2ee9-4e58-9360-699d33a82d32)
-[![LiveDemo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://seeker-anushri.github.io/Gallery/)
+[![LiveDemo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://seeker-anushri.github.io/Responsive-Ai-Picture-Gallery/)
 
 
 
