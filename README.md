@@ -1,5 +1,6 @@
 ![image](https://github.com/user-attachments/assets/5de71b62-2ee9-4e58-9360-699d33a82d32)
-[![LiveDemo](https://img.shields.io/badge/Add_More_Images-Click_Here-green?style=for-the-badge)](https://github.com/your-username/random-image-gallery)
+[![LiveDemo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://seeker-anushri.github.io/Gallery/)
+
 
 
 # 🎉 Welcome to the Fantastic Random Image Gallery! 📸✨
